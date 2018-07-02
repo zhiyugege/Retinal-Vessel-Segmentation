@@ -1,0 +1,4 @@
+pytorch==0.3.0
+torchvision==0.2.0
+numpy==1.13.1
+PIL==4.2.1
